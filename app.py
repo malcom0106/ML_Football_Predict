@@ -1,11 +1,10 @@
-import numpy as np
 import pandas as pd
 import joblib
 import streamlit as st
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
-import sys
 
+#import sys
 # print("Python version: {}".format(sys.version))
 # print("JobLib version: {}".format(joblib.__version__))
 
